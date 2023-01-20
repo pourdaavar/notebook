@@ -1,9 +1,9 @@
 {
   "commitMessage": "Note takes : {{date}}",
-  "autoCommitMessage": "vault backup: {{date}}",
+  "autoCommitMessage": "Note : {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
-  "autoPushInterval": 5,
+  "autoPushInterval": 3,
   "autoPullInterval": 0,
   "autoPullOnBoot": true,
   "disablePush": false,
