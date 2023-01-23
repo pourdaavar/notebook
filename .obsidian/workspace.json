@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e2c544ebeb572013",
+        "id": "964134add66aebe5",
         "type": "tabs",
         "children": [
           {
-            "id": "ca6b03b895d413f8",
+            "id": "fcfff1f679cb74b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -17,14 +17,6 @@
                 "mode": "source",
                 "source": false
               }
-            }
-          },
-          {
-            "id": "4070ddebccd81ea4",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ]
@@ -163,7 +155,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ca6b03b895d413f8",
+  "active": "fcfff1f679cb74b1",
   "lastOpenFiles": [
     "README.md",
     "Database/MongoDB.md",
