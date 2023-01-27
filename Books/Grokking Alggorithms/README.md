@@ -34,6 +34,27 @@ with binary search, you guess the middle number and eliminate half the remaining
 in general, for any list of *n*, binary search will take `log(n)`  steps to run in the worst case, whereas the *stupid search* will taske n steps.
 
 
->Binary search only works when your list is in sorted order! for example. the names in a phone book are sorted in aphabetical order, so you can use binary search to look for a name,
+>Binary search only works when your list is in sorted order! for example. the names in a phone book are sorted in aphabetical order, so you can use binary search to look for a name.
 
 
+```typescript
+function binarySearch(arr: number[], value: number) {
+  let startElement = 0;
+  let endElement = arr.length - 1;
+
+  while (startElement <= endElement) {
+    let mid = Math.floor((startElement + endElement) / 2);
+
+    if (arr[mid] === value) {
+      return mid;
+    }
+
+    if (value < arr[mid]) {
+      endElement = mid - 1;
+    } else {
+      startElement = mid + 1;
+    }
+  }
+  return -1;
+}
+```
