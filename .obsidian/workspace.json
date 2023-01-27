@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "f2be6e60a8804db7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Books/Grokking Alggorithms/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 232.5,
     "collapsed": true
   },
   "right": {
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "OAuth 2.0/README.md",
+                "file": "Books/Grokking Alggorithms/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OAuth 2.0/README.md",
+                "file": "Books/Grokking Alggorithms/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "OAuth 2.0/README.md"
+                "file": "Books/Grokking Alggorithms/README.md"
               }
             }
           },
@@ -169,12 +181,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "13456d108f0cc523",
+  "active": "f2be6e60a8804db7",
   "lastOpenFiles": [
-    "Database/MongoDB.md",
+    "Untitled.md",
     "OAuth 2.0/README.md",
+    "Database/MongoDB.md",
     "README.md",
-    "Message Queue/Pubsub.md",
-    "Untitled.md"
+    "Message Queue/Pubsub.md"
   ]
 }
