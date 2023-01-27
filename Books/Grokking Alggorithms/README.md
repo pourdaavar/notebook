@@ -64,4 +64,4 @@ function binarySearch(arr: number[], value: number) {
 *Big O* notion is special notation that tells you how fast an algorithm is. *Big O* does'nt tell you the speed in seconds!. *Big O* notation lets yu compare the number of operations!. It tells you how fast the algorithm grows
 
 
-![[Pasted image 20230127212948.png]]
+![[bigo.png]]
