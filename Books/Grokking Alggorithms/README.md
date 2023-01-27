@@ -39,22 +39,23 @@ in general, for any list of *n*, binary search will take `log(n)`  steps to run 
 
 ```typescript
 function binarySearch(arr: number[], value: number) {
-  let startElement = 0;
-  let endElement = arr.length - 1;
+  let startElementIndex = 0;
+  let endElementIndex = arr.length - 1;
 
-  while (startElement <= endElement) {
-    let mid = Math.floor((startElement + endElement) / 2);
+  while (startElementIndex <= endElementIndex) {
+    let mid = Math.floor((startElementIndex + endElementIndex) / 2);
 
     if (arr[mid] === value) {
       return mid;
     }
 
     if (value < arr[mid]) {
-      endElement = mid - 1;
+      endElementIndex = mid - 1;
     } else {
-      startElement = mid + 1;
+      startElementIndex = mid + 1;
     }
   }
   return -1;
 }
 ```
+
