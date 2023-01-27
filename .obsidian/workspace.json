@@ -163,12 +163,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,7 +181,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f2be6e60a8804db7",
+  "active": "d6a6839404dcde3e",
   "lastOpenFiles": [
     "Untitled.md",
     "OAuth 2.0/README.md",
