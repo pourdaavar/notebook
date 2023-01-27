@@ -66,3 +66,18 @@ function binarySearch(arr: number[], value: number) {
 
 ![alt text](./assets/bigo.png)
 
+> *Big O* show a worst-case run time!
+
+#### Some common *Big O* run times
+1. *O(log(n))* => Binary search
+2. *O(n)* => simple search
+3. *O(n \* log(n) )* => quicksort, A fast sorting algorithm
+4. *O(n^2)* => selection sort
+5. *O(n!)* => A realy slow algorithm
+
+
+### Summery
+1. Algorithm speed isn't measured in secounds, but in growth of the number of operations.
+2. Instead, we talk about how quickly the run time of an algorithm increases as the size of the input increases.
+3. Run tume of algorithms is expressed in Big O notation.
+4. O(log(n)) is faster than O(n), but it gets a lot faster as the lsit of items you're searching grows.
