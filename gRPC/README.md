@@ -16,7 +16,7 @@ On the client side, the client has a stub (referred to as just a client in some 
 gRPC clients and servers can run and talk to each other in a variety of environments.
 
 ## Working with Protocol Buffers
-By default, gRPC uses [Protocol Buffers](https://developers.google.com/protocol-buffers/docs/overview) 
+By default, gRPC uses [Protocol Buffers](https://protobuf.dev/)
 The first step when working with protocol buffers is to define the structure for the data you want to serialize in a *proto file*.
 this is an ordinary text file with a `.proto` extenstion. Protocol buffer data is structrued as messages, where each message is small logical record of information containing a series of name-value pairs called *fields*.
 
