@@ -2,7 +2,7 @@
 gRPC (g Remote Procedure Call) can use protocol buffers as both its Interface Definition Language (IDL) and as its underlying message interchage format.
 gRPC works at layers 5, 6 and 7. Protobuf works at layer 6. ( OSI Model )
 
-## Overview
+### Overview
 in gRPC, a client app can directly call a method on a server app on different machine as if it were a local project. making it easier for you to create distributed applications and services.
 As in many RPC systems, gRPC is based around the idea of defining a service, specifying the methods that can be called remotely with their parameters and return types. 
 
@@ -15,7 +15,7 @@ On the client side, the client has a stub (referred to as just a client in some 
 
 gRPC clients and servers can run and talk to each other in a variety of environments.
 
-## Working with Protocol Buffers
+### Working with Protocol Buffers
 By default, gRPC uses [Protocol Buffers](https://protobuf.dev/)
 The first step when working with protocol buffers is to define the structure for the data you want to serialize in a *proto file*.
 this is an ordinary text file with a `.proto` extenstion. Protocol buffer data is structrued as messages, where each message is small logical record of information containing a series of name-value pairs called *fields*.
