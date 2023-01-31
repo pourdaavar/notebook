@@ -21,3 +21,48 @@ This is the server that displays the OAuth prompt, and where the user approves o
 
 ## The Client
 The client is the app that is attempting to act on the user's behalf or access the user's resources.
+
+
+
+## AccessToken
+
+### # AcessTokenResponse
+--- Successful Response
+
+
+### # Authorization Code Request
+
+```HTTP
+POST /oauth/token HTTP/1.1
+Host: authorization-server.com
+ 
+grant_type=authorization_code
+&code=xxxxxxxxxxx
+&redirect_uri=https://example-app.com/redirect
+&code_verifier=Th7UHJdLswIYQxwSg29DbK1a_d9o41uNMTRmuH0PM8zyoMAQ
+&client_id=xxxxxxxxxx
+&client_secret=xxxxxxxxxx
+```
+
+The authorization code grant is used when an application exchanges an authorization code for an access token. 
+After the user returns to the application via the redirect URL, the application will get the authorization code from the URL and use it to request an access token. 
+This request will be made to the token endpoint.
+
+
+
+
+## Authorization
+
+### # The Authorization Request
+Clients will direct a user’s browser to the authorization server to begin the OAuth process.
+
+```http
+GET /authorize HTTP/1.1
+HOST: authorization-server.com
+
+&response_type=code
+&client_id=29352735982374239857
+&redirect_uri=https://example-app.com/callback
+&scope=create+delete
+&state=xcoivjuywkdkhvusuye3kch
+```
