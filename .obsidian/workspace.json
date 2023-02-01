@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcfff1f679cb74b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/MongoDB.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "13456d108f0cc523",
             "type": "leaf",
             "state": {
@@ -30,33 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "f2be6e60a8804db7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Books/Grokking Alggorithms/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e5a53b5ffbe7d665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "OAuth 2.0/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,12 +155,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "e5a53b5ffbe7d665",
+  "active": "13456d108f0cc523",
   "lastOpenFiles": [
-    "gRPC/README.md",
     "Database/MongoDB.md",
-    "Untitled.md",
     "OAuth 2.0/README.md",
+    "Books/Grokking Alggorithms/README.md",
+    "gRPC/README.md",
+    "Untitled.md",
     "README.md",
     "Message Queue/Pubsub.md"
   ]
