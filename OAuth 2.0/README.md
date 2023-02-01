@@ -36,7 +36,7 @@ The client is the app that is attempting to act on the user's behalf or access t
 POST /oauth/token HTTP/1.1
 Host: authorization-server.com
  
-grant_type=authorization_code
+&grant_type=authorization_code
 &code=xxxxxxxxxxx
 &redirect_uri=https://example-app.com/redirect
 &code_verifier=Th7UHJdLswIYQxwSg29DbK1a_d9o41uNMTRmuH0PM8zyoMAQ
