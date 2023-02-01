@@ -24,7 +24,7 @@ you have ti try to guess my number in the fewes tries possible.
 With every guess, I'll tell you if your guess is too low, too high, or correct.
 suppose you start guessing like this: 1,2,3, ... Here's how it would go. it's simple search ( stupid search) in every search you're eliminating only one number. if my number was 99, it could take you 99 guesses to got there!
 
-###### A better way to search
+##### A better way to search
 Here's a better technique. Start with *50*
 with this trick you can eliminate half of the numbers!
 suppose a number is higher than 50
@@ -64,7 +64,7 @@ function binarySearch(arr: number[], value: number) {
 *Big O* notion is special notation that tells you how fast an algorithm is. *Big O* does'nt tell you the speed in seconds!. *Big O* notation lets yu compare the number of operations!. It tells you how fast the algorithm grows
 
 
-![alt text](./assets/bigo.png)
+![alt text](bigo.png)
 
 > *Big O* show a worst-case run time!
 

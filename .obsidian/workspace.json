@@ -142,7 +142,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,9 +158,9 @@
   },
   "active": "13456d108f0cc523",
   "lastOpenFiles": [
-    "Database/MongoDB.md",
+    "Books/Grokking Algorithms/README.md",
     "OAuth 2.0/README.md",
-    "Books/Grokking Alggorithms/README.md",
+    "Database/MongoDB.md",
     "gRPC/README.md",
     "Untitled.md",
     "README.md",
