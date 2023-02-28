@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "71d4e1c21bb4186f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Document.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "3a090d752652ccb4",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Designing Data-Intensive Applications/README.md",
+                "file": "Document.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Designing Data-Intensive Applications/README.md",
+                "file": "Document.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Designing Data-Intensive Applications/README.md"
+                "file": "Document.md"
               }
             }
           },
@@ -157,13 +169,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "30165b537abfdf4b",
+  "active": "71d4e1c21bb4186f",
   "lastOpenFiles": [
+    "Books/Designing Data-Intensive Applications/README.md",
     "OAuth 2.0/README.md",
     "Books/Grokking Algorithms/README.md",
     "Database/MongoDB.md",
     "gRPC/README.md",
-    "Untitled.md",
+    "Document.md",
     "README.md",
     "Message Queue/Pubsub.md"
   ]
