@@ -79,5 +79,5 @@ function binarySearch(arr: number[], value: number) {
 ### Summery
 1. Algorithm speed isn't measured in secounds, but in growth of the number of operations.
 2. Instead, we talk about how quickly the run time of an algorithm increases as the size of the input increases.
-3. Run tume of algorithms is expressed in Big O notation.
+3. Run time of algorithms is expressed in Big O notation.
 4. O(log(n)) is faster than O(n), but it gets a lot faster as the list of items you're searching grows.
