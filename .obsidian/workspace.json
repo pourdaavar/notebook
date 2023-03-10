@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0f2042bca4ef82d1",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.1.15"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,7 +179,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "71d4e1c21bb4186f",
+  "active": "0f2042bca4ef82d1",
   "lastOpenFiles": [
     "Message Queue/Pubsub.md",
     "Books/Grokking Algorithms/README.md",
