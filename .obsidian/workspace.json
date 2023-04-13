@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "fb5f2c30cbf9603e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ansible/README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/README.md",
+                "file": "Ansible/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/README.md",
+                "file": "Ansible/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/README.md"
+                "file": "Ansible/README.md"
               }
             }
           },
@@ -156,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "1c73cbe75f4c7a41",
+  "active": "f22bb5eb019122c5",
   "lastOpenFiles": [
     "Computer Science/README.md",
-    "Untitled.md",
+    "Ansible/README.md",
+    "Ansible",
     "Computer Science",
     "Books/Designing Data-Intensive Applications/README.md",
     "OAuth 2.0/README.md",
