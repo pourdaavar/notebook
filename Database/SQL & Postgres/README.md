@@ -115,3 +115,9 @@ in relational DBs, tables can be linked to each other, two tables are linked thr
 - A foreign key is a column where the value match the values of another tables primary key column
 - the table with the primary key is called reference, or parent, table and the table with foreign key is called the child table.
 - A table can contain multiple foreign keys
+
+
+| ID          | Name | Age | owner_id    |
+| ----------- | ---- | --- | ----------- |
+| primary_key |      |     | foreign_key |
+|             |      |     |             |
