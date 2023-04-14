@@ -124,7 +124,7 @@ in relational DBs, tables can be linked to each other, two tables are linked thr
 
 
 
-### Unique, NOT Null and check constraints
+### Constraints
 - #### Unique Constraint
 	1. Ensures that a column can only contain unique values. like an email or username
 	2. Throws an error if duplicate values are inserted into a column.
