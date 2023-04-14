@@ -63,6 +63,49 @@ RDBMS allow us to interact with the database.
 
 in relational DBs, tables can be linked to each other, two tables are linked through primary keys and foreign keys
 
+
 # PostgreSQL
 
 
+### Data types
+
+#### Numeric data types
+
+| Data type                                                                | Description                      | Exp columns      |
+| ------------------------------------------------------------------------ | -------------------------------- | ---------------- |
+| INT                                                                      | Whole numbers                    | Age, Quantity    |
+| NUMERIC(P = max number of digit,S = number of digit after decimal point) | Decimal numbers                  | Height, Price    |
+| SERIAL                                                                   | Auto incrementing - Whole number | id - primary key |
+|                                                                         |                                  |                  |
+
+#### String Data types
+
+| Data type  | Description                              | Exp columns  |
+| ---------- | ---------------------------------------- | ------------ |
+| CHAR(N)    | Fixed length string of length N          | Gender,State |
+| VARCHAR(N) | Varying length string of max length N    | Name, Email  |
+| TEXT       | varying length string with no max length | Comments, Reviews             |
+*NOTE: N refers to length
+
+#### Time Data type
+| Data type | Description         | Exp columns   |
+| --------- | ------------------- | ------------- |
+| TIME      | HH:MM:SS            |               |
+| DATE      | YYYY-MM-DD          | Date of birth |
+| TIMESTAMP | YYYY-MM-DD HH:MM:SS | Order time    |
+|           |                     |               |
+
+#### Other data types
+| Data type | Description                          | Exp columns |          |
+| --------- | ------------------------------------ | ----------- | -------- |
+| BOOLEAN   | True or False                                | In Stock |
+| ENUM      | A List of possible input by the USer | Geneder            |          |
+
+
+
+### Primary keys and Foreign Keys
+#### 1. Primary keys
+- a column which uniquely identifies a record in a table
+- Must be unique and can not be null
+- Only 1 primary key per table
+- Primary keys are not mandatory but are highly advised!
