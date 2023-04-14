@@ -11,8 +11,12 @@
             "id": "6e655e77b194a05c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Database/SQL & Postgres/README.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a090d752652ccb4",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Database/SQL & Postgres/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Database/SQL & Postgres/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Database/SQL & Postgres/README.md"
+              }
             }
           },
           {
@@ -134,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -148,8 +156,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f22bb5eb019122c5",
+  "active": "6e655e77b194a05c",
   "lastOpenFiles": [
+    "Database/SQL & Postgres/assets/dbms.png",
+    "Database/SQL & Postgres/README.md",
+    "Database/SQL & Postgres/assets/dbms.png.crdownload",
+    "Database/SQL & Postgres/assets",
+    "Database/SQL & Postgres",
     "Untitled.canvas",
     "Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
