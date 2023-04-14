@@ -117,15 +117,18 @@ in relational DBs, tables can be linked to each other, two tables are linked thr
 - A table can contain multiple foreign keys
 
 
-### Unique, NOT Null and check constraints
-- #### Unique Constraint
-	1. Ensures that a column can only contain unique values. like and email or username
-	2. Throws an error if duplicate values are inserted into a column.
-	3. You can state whether a column should have a unique constraint when creating the table.
-
-
-
 | ID          | Name | Age | owner_id    |
 | ----------- | ---- | --- | ----------- |
 | primary_key |      |     | foreign_key |
 |             |      |     |             |
+
+
+
+### Unique, NOT Null and check constraints
+- #### Unique Constraint
+	1. Ensures that a column can only contain unique values. like an email or username
+	2. Throws an error if duplicate values are inserted into a column.
+	3. You can state whether a column should have a unique constraint when creating the table.
+- #### Not null constraint
+	1. Ensures that values can't be inserted into a column.
+	2. 
