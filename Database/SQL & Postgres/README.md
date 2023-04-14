@@ -131,4 +131,8 @@ in relational DBs, tables can be linked to each other, two tables are linked thr
 	3. You can state whether a column should have a unique constraint when creating the table.
 - #### Not null constraint
 	1. Ensures that values can't be inserted into a column.
-	2. 
+	2. if the data is vital then u can add the not null constraint
+	3. define a column with the not null constraint when creating the table.
+- #### Check constraints
+	1. used to check whether values in a column satisfy a specific boolean expression. exp: an age column must contain values > 0
+	2. ensures that the data entered into the database makes sense.
