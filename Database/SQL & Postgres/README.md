@@ -99,7 +99,7 @@ in relational DBs, tables can be linked to each other, two tables are linked thr
 | Data type | Description                          | Exp columns |          |
 | --------- | ------------------------------------ | ----------- | -------- |
 | BOOLEAN   | True or False                                | In Stock |
-| ENUM      | A List of possible input by the USer | Geneder            |          |
+| ENUM      | A List of possible input by the User | Geneder            |          |
 
 
 
@@ -109,3 +109,9 @@ in relational DBs, tables can be linked to each other, two tables are linked thr
 - Must be unique and can not be null
 - Only 1 primary key per table
 - Primary keys are not mandatory but are highly advised!
+
+#### 2. Foreign keys
+- A foreign key is used to link two tables to each other.
+- A foreign key is a column where the value match the values of another tables primary key column
+- the table with the primary key is called reference, or parent, table and the table with foreign key is called the child table.
+- A table can contain multiple foreign keys
