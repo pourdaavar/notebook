@@ -31,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastic Search/README.md",
+                "file": "Database/SQL & Postgres/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elastic Search/README.md",
+                "file": "Database/SQL & Postgres/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic Search/README.md"
+                "file": "Database/SQL & Postgres/README.md"
               }
             }
           },
@@ -168,10 +167,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "31e784da635d263b",
+  "active": "6e655e77b194a05c",
   "lastOpenFiles": [
-    "Database/SQL & Postgres/README.md",
     "Elastic Search/README.md",
+    "Database/SQL & Postgres/README.md",
     "Elastic Search",
     "Database/SQL & Postgres/assets/dbms.png",
     "Database/SQL & Postgres/assets/dbms.png.crdownload",
