@@ -4,31 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "0b3762a7e8a9e146",
+        "id": "f5928bdfeb102cd9",
         "type": "tabs",
         "children": [
           {
-            "id": "6e655e77b194a05c",
+            "id": "99ccc31174c5bd75",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Database/SQL & Postgres/README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "31e784da635d263b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Elastic Search/README.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -81,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5,
-    "collapsed": true
+    "width": 232.5
   },
   "right": {
     "id": "3a090d752652ccb4",
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/SQL & Postgres/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/SQL & Postgres/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Database/SQL & Postgres/README.md"
-              }
+              "state": {}
             }
           },
           {
@@ -168,8 +147,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6e655e77b194a05c",
+  "active": "99ccc31174c5bd75",
   "lastOpenFiles": [
+    "NFT",
     "Elastic Search/README.md",
     "Database/SQL & Postgres/README.md",
     "Elastic Search",
