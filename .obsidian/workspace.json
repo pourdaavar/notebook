@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9c0097ba69b8aa41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Power 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/SQL & Postgres/README.md",
+                "file": "Computer Science/Power 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/SQL & Postgres/README.md",
+                "file": "Computer Science/Power 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/SQL & Postgres/README.md"
+                "file": "Computer Science/Power 2.md"
               }
             }
           },
@@ -155,11 +168,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "99ccc31174c5bd75",
+  "active": "9c0097ba69b8aa41",
   "lastOpenFiles": [
+    "Database/SQL & Postgres/README.md",
+    "Computer Science/Power 2.md",
     "NFT",
     "Elastic Search/README.md",
-    "Database/SQL & Postgres/README.md",
     "Elastic Search",
     "Database/SQL & Postgres/assets/dbms.png",
     "Database/SQL & Postgres/assets/dbms.png.crdownload",
