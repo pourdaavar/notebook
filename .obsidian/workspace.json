@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3cb13328c66aaf24",
+        "id": "533a5694d6d27c6d",
         "type": "tabs",
         "children": [
           {
-            "id": "5a9e82d122d14e70",
+            "id": "98eb7a9e1ff6f05f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -16,19 +16,29 @@
             }
           },
           {
-            "id": "bad19f9286a9fdd8",
+            "id": "f79ce5bbb050372a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MinIO/README.md",
+                "file": "README.md.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "02d83d585f3d5c19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.3"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -102,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MinIO/README.md",
+                "file": "README.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MinIO/README.md",
+                "file": "README.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MinIO/README.md"
+                "file": "README.md.md"
               }
             }
           },
@@ -172,8 +182,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bad19f9286a9fdd8",
+  "active": "02d83d585f3d5c19",
   "lastOpenFiles": [
+    "README.md.md",
+    "Container Security",
     "MinIO/README.md",
     "MinIO",
     "Architecture/Fundamentals Of Software architecture.md",
@@ -196,7 +208,6 @@
     "Books/Grokking Algorithms/README.md",
     "Books/Designing Data-Intensive Applications/README.md",
     "Ansible/README.md",
-    "Ansible",
     "OAuth 2.0/README.md",
     "Message Queue/Pubsub.md",
     "gRPC/README.md",
