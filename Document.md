@@ -42,8 +42,8 @@ As branching model we follow **GitFlow**  illustrated as follow.
 
  ![Gitflow diagram](https://i1.wp.com/lanziani.com/slides/gitflow/images/gitflow_1.png)
  
-|Branch | Number |Branch|life time|function
-|--|--|--|--|--|
+|Branch | Number |Branch|life time|function |
+|------|-----|-----|------|-------|
 | Master | unique |---|permanent| Code stable, tested and validated, production ready
 |Feature |many|develop|feature development|Code under development that implements a feature to be embedded in the next version of the application|
 |Develop|unique|master|permanent|Once the development of a feature is finished, the code is merged on this branch|

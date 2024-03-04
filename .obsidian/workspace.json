@@ -13,24 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "53321f2c64757e08",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.8"
-              }
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -105,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/README.md.md"
+                "file": "README.md"
               }
             }
           },
@@ -162,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -176,19 +164,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53321f2c64757e08",
+  "active": "99604f05a526006e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "Kubernetes/README.md.md",
-    "Kubernetes",
     "README.md.md",
+    "README.md",
+    "Document.md",
+    "Database/SQL & Postgres/README.md",
+    "Ansible/README.md",
+    "Kubernetes/README.md.md",
+    "Untitled.md",
+    "Kubernetes",
     "Container Security",
     "MinIO/README.md",
     "MinIO",
     "Architecture/Fundamentals Of Software architecture.md",
     "Architecture",
     "Computer Science/Power 2.md",
-    "Database/SQL & Postgres/README.md",
     "Computer Science/assets/envelope.jpg",
     "Computer Science/assets/envelope.jpg.crdownload",
     "Computer Science/assets",
@@ -203,12 +194,9 @@
     "Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
     "Books/Designing Data-Intensive Applications/README.md",
-    "Ansible/README.md",
     "OAuth 2.0/README.md",
     "Message Queue/Pubsub.md",
     "gRPC/README.md",
-    "Document.md",
-    "Database/MongoDB.md",
-    "README.md"
+    "Database/MongoDB.md"
   ]
 }
