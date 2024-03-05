@@ -7,3 +7,6 @@
 	- 
 - ReplicaSet
 - Replicas
+
+
+### Affinity and Toleration
