@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "Linux/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "Linux/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "Linux/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/README.md.md"
+                "file": "Linux/README.md"
               }
             }
           },
@@ -167,8 +167,8 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
-    "Linux/README.md",
     "Kubernetes/README.md.md",
+    "Linux/README.md",
     "Linux",
     "2024-03-04.md",
     "Untitled.canvas",
