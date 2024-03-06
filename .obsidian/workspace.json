@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a090d752652ccb4",
@@ -167,6 +168,8 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Linux/assets/LVM_component.webp",
+    "Linux/assets",
     "Kubernetes/README.md.md",
     "Linux/README.md",
     "Linux",
@@ -193,7 +196,6 @@
     "Elastic Search/README.md",
     "Elastic Search",
     "Database/SQL & Postgres/assets/dbms.png",
-    "Database/SQL & Postgres/assets/dbms.png.crdownload",
     "Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
     "Books/Designing Data-Intensive Applications/README.md",
