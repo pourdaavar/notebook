@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "Linux/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "Linux/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kubernetes/README.md.md",
+                "file": "Linux/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes/README.md.md"
+                "file": "Linux/README.md"
               }
             }
           },
@@ -167,17 +167,19 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Database/SQL & Postgres/README.md",
+    "Database/MongoDB.md",
     "Linux/README.md",
-    "Linux/assets/LVM_component.webp",
-    "Linux/assets",
-    "Kubernetes/README.md.md",
-    "Linux",
-    "2024-03-04.md",
-    "Untitled.canvas",
     "README.md",
     "README.md.md",
     "Document.md",
-    "Database/SQL & Postgres/README.md",
+    "Linux/NGINX.md",
+    "Kubernetes/README.md.md",
+    "Linux/assets/LVM_component.webp",
+    "Linux/assets",
+    "Linux",
+    "2024-03-04.md",
+    "Untitled.canvas",
     "Ansible/README.md",
     "Untitled.md",
     "Kubernetes",
@@ -200,7 +202,6 @@
     "Books/Designing Data-Intensive Applications/README.md",
     "OAuth 2.0/README.md",
     "Message Queue/Pubsub.md",
-    "gRPC/README.md",
-    "Database/MongoDB.md"
+    "gRPC/README.md"
   ]
 }
