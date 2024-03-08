@@ -3,8 +3,6 @@
 # register
 for saving result of previous commands and use it in other jobs
 
-
-
 ```yaml
 - hosts: web_servers
 
