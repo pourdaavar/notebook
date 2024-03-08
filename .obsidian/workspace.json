@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/README.md",
+                "file": "Ansible/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/README.md",
+                "file": "Ansible/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/README.md",
+                "file": "Ansible/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/README.md"
+                "file": "Ansible/README.md"
               }
             }
           },
@@ -167,9 +167,9 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Linux/README.md",
     "Database/SQL & Postgres/README.md",
     "Database/MongoDB.md",
-    "Linux/README.md",
     "README.md",
     "README.md.md",
     "Document.md",
