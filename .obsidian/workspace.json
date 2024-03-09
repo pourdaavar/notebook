@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ansible/README.md",
+                "file": "Prometheus/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ansible/README.md",
+                "file": "Prometheus/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ansible/README.md",
+                "file": "Prometheus/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ansible/README.md"
+                "file": "Prometheus/README.md"
               }
             }
           },
@@ -167,6 +167,9 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Ansible/README.md",
+    "Prometheus/README.md",
+    "Prometheus",
     "Linux/README.md",
     "Database/SQL & Postgres/README.md",
     "Database/MongoDB.md",
@@ -180,7 +183,6 @@
     "Linux",
     "2024-03-04.md",
     "Untitled.canvas",
-    "Ansible/README.md",
     "Untitled.md",
     "Kubernetes",
     "Container Security",
@@ -195,7 +197,6 @@
     "Pasted image 20230519165552.png",
     "NFT",
     "Elastic Search/README.md",
-    "Elastic Search",
     "Database/SQL & Postgres/assets/dbms.png",
     "Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
