@@ -51,3 +51,10 @@ For the value, we’ll specify a string Serializer. The Serializers for the key 
 2. consumers automatically know which broker to read from
 3. in case of broker failures, consumers know how to recover.
 4. data is read in order from low to high offset ==within each partitions==
+
+### Consumer Deserializer
+Within each partition, there’s a specific order. As consumers read messages, they must convert the bytes received from Kafka into usable data or objects. The message in Kafka has a key and a value, both in binary format. To use these in our programming language, they need to be converted into objects. The consumer must know the message format in advance. For instance, if the key is an integer, the consumer uses an integer Deserializer to change the key from bytes to an integer. The key then becomes an integer like 123. Similarly, if the value is expected to be a string, a string Deserializer converts bytes into a string, retrieving the original message like “Hello world.” Apache Kafka includes Deserializers for various data types, such as strings (including JSON), integers, floats, Avro, Protobuf, and others, which consumers can use.
+
+![[deserializer_message.png]]
+
+
