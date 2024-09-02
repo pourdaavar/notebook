@@ -23,7 +23,7 @@ Topics are split in partitions
 	6. order is guaranteed only within a partition ( not across partitions )
 
 
-### Producers
+## Producers
 producers write data to topics ( which are made of partitions)
 
  #### - **Message keys**
@@ -45,3 +45,9 @@ However, our messages aren’t initially in bytes. So, we perform message serial
 Serializers are used for both the message’s key and value. For instance, consider a key object, like a car ID — let’s say 123. The value might simply be a text like “Hello world”. These aren’t bytes yet but objects in our programming language. We’ll designate an integer Serializer for the key. The Kafka producer is then able to convert this key object, 123, into a byte sequence, creating a binary representation of the key.
 
 For the value, we’ll specify a string Serializer. The Serializers for the key and value differ, meaning it can smartly convert the text “Hello world” into a byte sequence for the value.
+
+## Consumers
+1. consumers read data from a topic ( identified by name ) - pull model
+2. consumers automatically know which broker to read from
+3. in case of broker failures, consumers know how to recover.
+4. data is read in order from low to high offset ==within each partitions==
