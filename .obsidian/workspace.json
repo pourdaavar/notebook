@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Elastic Search/README.md",
+                "file": "Kafka/README.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Elastic Search/README.md",
+                "file": "Kafka/README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Elastic Search/README.md",
+                "file": "Kafka/README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Elastic Search/README.md"
+                "file": "Kafka/README.md"
               }
             }
           },
@@ -167,6 +167,13 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Kafka/assets/message_anatomy.png",
+    "Kafka/README.md",
+    "Kafka/assets/1_CTcWpEFdVP18zv8d1xjp0w.webp",
+    "README.md",
+    "Kafka/assets",
+    "Elastic Search/README.md",
+    "Kafka",
     "Kubernetes/README.md.md",
     "Prometheus/README.md",
     "Ansible/README.md",
@@ -174,7 +181,6 @@
     "Linux/README.md",
     "Database/SQL & Postgres/README.md",
     "Database/MongoDB.md",
-    "README.md",
     "README.md.md",
     "Document.md",
     "Linux/NGINX.md",
@@ -193,10 +199,7 @@
     "Computer Science/Power 2.md",
     "Computer Science/assets/envelope.jpg",
     "Computer Science/assets/envelope.jpg.crdownload",
-    "Computer Science/assets",
     "Pasted image 20230519165552.png",
-    "NFT",
-    "Elastic Search/README.md",
     "Database/SQL & Postgres/assets/dbms.png",
     "Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
