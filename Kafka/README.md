@@ -58,3 +58,8 @@ Within each partition, there’s a specific order. As consumers read messages, t
 ![[deserializer_message.png]]
 
 
+
+
+### Create a new topic
+`kafka-topics.sh --create --bootstrap-server localhost:9094 --topic domain.topic.fancy.name --partitions 3 --replication-factor 3`
+
