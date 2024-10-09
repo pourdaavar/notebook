@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kafka/README.md",
+                "file": "ITs/Git Documentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Kafka/README.md",
+                "file": "ITs/Git Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Kafka/README.md",
+                "file": "ITs/Git Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kafka/README.md"
+                "file": "ITs/Git Documentation.md"
               }
             }
           },
@@ -173,50 +173,50 @@
       "persian-calendar:روزنوشت امروز": false
     }
   },
-  "active": "3d9a667a5ef964c1",
+  "active": "f22bb5eb019122c5",
   "lastOpenFiles": [
+    "ITs/Kafka/README.md",
+    "ITs",
     "1403-07-05.md",
-    "Kafka/README.md",
     "1403-W28.md",
-    "Kafka/assets/deserializer_message.png",
-    "Kafka/assets/message_anatomy.png",
+    "ITs/Kafka/assets/deserializer_message.png",
+    "ITs/Kafka/assets/message_anatomy.png",
     "Kafka/assets/1_CTcWpEFdVP18zv8d1xjp0w.webp",
     "README.md",
-    "Kafka/assets",
-    "Elastic Search/README.md",
-    "Kafka",
-    "Kubernetes/README.md.md",
-    "Prometheus/README.md",
-    "Ansible/README.md",
-    "Prometheus",
-    "Linux/README.md",
-    "Database/SQL & Postgres/README.md",
-    "Database/MongoDB.md",
+    "ITs/Kafka/assets",
+    "ITs/Elastic Search/README.md",
+    "ITs/Kafka",
+    "ITs/Kubernetes/README.md.md",
+    "ITs/Prometheus/README.md",
+    "ITs/Ansible/README.md",
+    "ITs/Prometheus",
+    "ITs/Linux/README.md",
+    "ITs/Database/SQL & Postgres/README.md",
+    "ITs/Database/MongoDB.md",
     "README.md.md",
-    "Document.md",
-    "Linux/NGINX.md",
-    "Linux/assets/LVM_component.webp",
-    "Linux/assets",
-    "Linux",
+    "ITs/Git Documentation.md",
+    "ITs/Linux/NGINX.md",
+    "ITs/Linux/assets/LVM_component.webp",
+    "ITs/Linux/assets",
+    "ITs/Linux",
     "2024-03-04.md",
     "Untitled.canvas",
     "Untitled.md",
-    "Kubernetes",
+    "ITs/Kubernetes",
     "Container Security",
-    "MinIO/README.md",
-    "MinIO",
-    "Architecture/Fundamentals Of Software architecture.md",
-    "Architecture",
-    "Computer Science/Power 2.md",
-    "Computer Science/assets/envelope.jpg",
-    "Computer Science/assets/envelope.jpg.crdownload",
+    "ITs/MinIO/README.md",
+    "ITs/MinIO",
+    "ITs/Architecture/Fundamentals Of Software architecture.md",
+    "ITs/Architecture",
+    "ITs/Computer Science/Power 2.md",
+    "ITs/Computer Science/assets/envelope.jpg",
     "Pasted image 20230519165552.png",
-    "Database/SQL & Postgres/assets/dbms.png",
-    "Computer Science/README.md",
+    "ITs/Database/SQL & Postgres/assets/dbms.png",
+    "ITs/Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
     "Books/Designing Data-Intensive Applications/README.md",
-    "OAuth 2.0/README.md",
-    "Message Queue/Pubsub.md",
-    "gRPC/README.md"
+    "ITs/OAuth 2.0/README.md",
+    "ITs/Message Queue/Pubsub.md",
+    "ITs/gRPC/README.md"
   ]
 }
