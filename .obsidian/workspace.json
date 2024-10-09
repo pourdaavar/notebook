@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks/1403-07-19.md",
+                "file": "Daily Tasks/1403-07-19.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks/1403-07-19.md",
+                "file": "Daily Tasks/1403-07-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks/1403-07-19.md",
+                "file": "Daily Tasks/1403-07-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/1403-07-19.md"
+                "file": "Daily Tasks/1403-07-19.md"
               }
             }
           },
@@ -177,8 +177,8 @@
   "active": "f22bb5eb019122c5",
   "lastOpenFiles": [
     "Books/HR-70s.md",
-    "Tasks/1403-07-19.md",
-    "Tasks",
+    "Daily Tasks/1403-07-19.md",
+    "Daily Tasks",
     "Books/Principles Of Marketing.md",
     "Books/Hard Thing About Hard Thing.md",
     "Daily Notes/1403-07-18.md",
