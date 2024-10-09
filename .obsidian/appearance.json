@@ -3,6 +3,7 @@
   "textFontFamily": "IRANSansXFaNum",
   "cssTheme": "Things",
   "monospaceFontFamily": "IRANSansXFaNum",
-  "baseFontSizeAction": true,
-  "interfaceFontFamily": "IRANSansXFaNum"
+  "baseFontSizeAction": false,
+  "interfaceFontFamily": "IRANYekanX",
+  "baseFontSize": 18
 }

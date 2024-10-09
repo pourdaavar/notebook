@@ -1,5 +1,7 @@
 {
   "alwaysUpdateLinks": true,
   "spellcheck": true,
-  "showLineNumber": true
+  "showLineNumber": true,
+  "promptDelete": false,
+  "vimMode": true
 }

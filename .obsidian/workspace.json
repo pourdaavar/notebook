@@ -155,11 +155,12 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 432.5
+    "width": 432.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,14 +170,16 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "persian-calendar:روزنوشت امروز": false
+      "persian-calendar:روزنوشت امروز": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
-    "Books/HR-70s.md",
+    "Daily Notes/1403-07-18.md",
     "Books/Hard Thing About Hard Thing.md",
+    "README.md",
+    "Books/HR-70s.md",
     "ITs/Git Documentation.md",
     "Books",
     "Daily Notes",
@@ -187,7 +190,6 @@
     "ITs/Kafka/assets/deserializer_message.png",
     "ITs/Kafka/assets/message_anatomy.png",
     "Kafka/assets/1_CTcWpEFdVP18zv8d1xjp0w.webp",
-    "README.md",
     "ITs/Kafka/assets",
     "ITs/Elastic Search/README.md",
     "ITs/Kafka",
@@ -217,7 +219,6 @@
     "ITs/Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
     "Books/Designing Data-Intensive Applications/README.md",
-    "ITs/OAuth 2.0/README.md",
-    "ITs/Message Queue/Pubsub.md"
+    "ITs/OAuth 2.0/README.md"
   ]
 }
