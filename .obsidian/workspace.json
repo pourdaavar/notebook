@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ITs/Git Documentation.md",
+                "file": "Books/Hard Thing About Hard Thing.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ITs/Git Documentation.md",
+                "file": "Books/Hard Thing About Hard Thing.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ITs/Git Documentation.md",
+                "file": "Books/Hard Thing About Hard Thing.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ITs/Git Documentation.md"
+                "file": "Books/Hard Thing About Hard Thing.md"
               }
             }
           },
@@ -173,8 +173,12 @@
       "persian-calendar:روزنوشت امروز": false
     }
   },
-  "active": "f22bb5eb019122c5",
+  "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Books/HR-70s.md",
+    "Books/Hard Thing About Hard Thing.md",
+    "ITs/Git Documentation.md",
+    "Books",
     "Daily Notes",
     "ITs/Kafka/README.md",
     "ITs",
@@ -195,7 +199,6 @@
     "ITs/Database/SQL & Postgres/README.md",
     "ITs/Database/MongoDB.md",
     "README.md.md",
-    "ITs/Git Documentation.md",
     "ITs/Linux/NGINX.md",
     "ITs/Linux/assets/LVM_component.webp",
     "ITs/Linux/assets",
@@ -206,9 +209,7 @@
     "ITs/Kubernetes",
     "Container Security",
     "ITs/MinIO/README.md",
-    "ITs/MinIO",
     "ITs/Architecture/Fundamentals Of Software architecture.md",
-    "ITs/Architecture",
     "ITs/Computer Science/Power 2.md",
     "ITs/Computer Science/assets/envelope.jpg",
     "Pasted image 20230519165552.png",
@@ -217,7 +218,6 @@
     "Books/Grokking Algorithms/README.md",
     "Books/Designing Data-Intensive Applications/README.md",
     "ITs/OAuth 2.0/README.md",
-    "ITs/Message Queue/Pubsub.md",
-    "ITs/gRPC/README.md"
+    "ITs/Message Queue/Pubsub.md"
   ]
 }
