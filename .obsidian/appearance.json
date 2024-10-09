@@ -1,12 +1,13 @@
 {
   "accentColor": "",
-  "textFontFamily": "IRANYekanX",
+  "textFontFamily": "IRANYekanX,Tahoma",
   "cssTheme": "Things",
-  "monospaceFontFamily": "IRANYekanX",
+  "monospaceFontFamily": "IRANYekanX,Tahoma",
   "baseFontSizeAction": false,
-  "interfaceFontFamily": "IRANYekanX",
+  "interfaceFontFamily": "JetBrainsMonoNL Nerd Font Propo",
   "baseFontSize": 18,
   "enabledCssSnippets": [
     "font"
-  ]
+  ],
+  "theme": "obsidian"
 }

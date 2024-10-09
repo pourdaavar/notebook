@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Hard Thing About Hard Thing.md",
+                "file": "Books/HR-70s.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Hard Thing About Hard Thing.md",
+                "file": "Books/HR-70s.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Hard Thing About Hard Thing.md",
+                "file": "Books/HR-70s.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Hard Thing About Hard Thing.md"
+                "file": "Books/HR-70s.md"
               }
             }
           },
@@ -176,8 +176,9 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
-    "Daily Notes/1403-07-18.md",
+    "Books/Principles Of Marketing.md",
     "Books/Hard Thing About Hard Thing.md",
+    "Daily Notes/1403-07-18.md",
     "README.md",
     "Books/HR-70s.md",
     "ITs/Git Documentation.md",
@@ -218,7 +219,6 @@
     "ITs/Database/SQL & Postgres/assets/dbms.png",
     "ITs/Computer Science/README.md",
     "Books/Grokking Algorithms/README.md",
-    "Books/Designing Data-Intensive Applications/README.md",
-    "ITs/OAuth 2.0/README.md"
+    "Books/Designing Data-Intensive Applications/README.md"
   ]
 }
