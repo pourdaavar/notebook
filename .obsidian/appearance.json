@@ -1,5 +1,8 @@
 {
   "accentColor": "",
-  "textFontFamily": "JetBrainsMono Nerd Font Mono",
-  "cssTheme": "Things"
+  "textFontFamily": "IRANYekanX",
+  "cssTheme": "Things",
+  "monospaceFontFamily": "IRANYekanX",
+  "baseFontSizeAction": true,
+  "interfaceFontFamily": "IRANYekanX"
 }
