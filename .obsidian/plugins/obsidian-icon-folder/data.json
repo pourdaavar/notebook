@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiListTodo",
       "📔",
       "📅",
       "FabGitAlt",
-      "LiSearch",
-      "🖥"
+      "LiSearch"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -40,5 +40,6 @@
   "ITs/Elastic Search": "LiSearch",
   "ITs/Git Documentation.md": "FabGitAlt",
   "Daily Notes": "📅",
-  "Books": "📔"
+  "Books": "📔",
+  "Tasks": "LiListTodo"
 }
