@@ -1,9 +1,12 @@
 {
   "accentColor": "",
-  "textFontFamily": "IRANSansXFaNum",
+  "textFontFamily": "IRANYekanX",
   "cssTheme": "Things",
-  "monospaceFontFamily": "IRANSansXFaNum",
+  "monospaceFontFamily": "IRANYekanX",
   "baseFontSizeAction": false,
   "interfaceFontFamily": "IRANYekanX",
-  "baseFontSize": 18
+  "baseFontSize": 18,
+  "enabledCssSnippets": [
+    "font"
+  ]
 }
