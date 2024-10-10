@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 232.5
+    "width": 232.5,
+    "collapsed": true
   },
   "right": {
     "id": "3a090d752652ccb4",
@@ -174,7 +175,7 @@
       "persian-calendar:روزنوشت امروز": false
     }
   },
-  "active": "f22bb5eb019122c5",
+  "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
     "Books/HR-70s.md",
     "Daily Tasks/1403-07-19.md",
