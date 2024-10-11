@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#rough_calculation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,8 +176,9 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
-    "Daily Tasks/1403-07-19.md",
+    "Untitled.canvas",
     "Books/HR-70s.md",
+    "Daily Tasks/1403-07-19.md",
     "Daily Tasks",
     "Books/Principles Of Marketing.md",
     "Books/Hard Thing About Hard Thing.md",
@@ -209,7 +210,6 @@
     "ITs/Linux/assets",
     "ITs/Linux",
     "2024-03-04.md",
-    "Untitled.canvas",
     "Untitled.md",
     "ITs/Kubernetes",
     "ITs/MinIO/README.md",
@@ -218,7 +218,6 @@
     "ITs/Computer Science/assets/envelope.jpg",
     "Pasted image 20230519165552.png",
     "ITs/Database/SQL & Postgres/assets/dbms.png",
-    "ITs/Computer Science/README.md",
-    "Books/Grokking Algorithms/README.md"
+    "ITs/Computer Science/README.md"
   ]
 }
