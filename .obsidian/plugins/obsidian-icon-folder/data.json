@@ -6,11 +6,11 @@
     "emojiStyle": "twemoji",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🈺",
       "LiAnvil",
       "LiListTodo",
       "📔",
-      "📅",
-      "FabGitAlt"
+      "📅"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -42,5 +42,5 @@
   "Daily Notes": "📅",
   "Books": "📔",
   "Daily Tasks": "LiListTodo",
-  "MBA": "LiAnvil"
+  "MBA": "🈺"
 }
