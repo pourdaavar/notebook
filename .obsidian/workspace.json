@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Principles Of Marketing.md",
+                "file": "MBA/Forecast Business.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Principles Of Marketing"
+              "title": "Forecast Business"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Books/Principles Of Marketing.md",
+                "file": "MBA/Forecast Business.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Principles Of Marketing"
+              "title": "Backlinks for Forecast Business"
             }
           },
           {
@@ -123,12 +123,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Books/Principles Of Marketing.md",
+                "file": "MBA/Forecast Business.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Principles Of Marketing"
+              "title": "Outgoing links from Forecast Business"
             }
           },
           {
@@ -150,10 +150,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Books/Principles Of Marketing.md"
+                "file": "MBA/Forecast Business.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Principles Of Marketing"
+              "title": "Outline of Forecast Business"
             }
           },
           {
@@ -199,9 +199,9 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
+    "Books/Principles Of Marketing.md",
     "MBA/Forecast Business.md",
     "MBA",
-    "Books/Principles Of Marketing.md",
     "Books/HR-70s.md",
     "Books/Hard Thing About Hard Thing.md",
     "Daily Tasks/1403-07-19.md",
