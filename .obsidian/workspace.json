@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MBA/Forecast Business.md",
+                "file": "Books/Customer Relationship Management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Forecast Business"
+              "title": "Customer Relationship Management"
             }
           }
         ],
@@ -197,8 +197,9 @@
   },
   "active": "c4f69169085f7ca4",
   "lastOpenFiles": [
-    "Books/Principles Of Marketing.md",
     "MBA/Forecast Business.md",
+    "Books/Customer Relationship Management.md",
+    "Books/Principles Of Marketing.md",
     "MBA",
     "Books/HR-70s.md",
     "Books/Hard Thing About Hard Thing.md",
