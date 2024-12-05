@@ -176,8 +176,7 @@
               "title": "Persian Calendar"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
@@ -193,8 +192,7 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "persian-calendar:روزنوشت امروز": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "persian-calendar:روزنوشت امروز": false
     }
   },
   "active": "c4f69169085f7ca4",
