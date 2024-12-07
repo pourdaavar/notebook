@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Books/Customer Relationship Management.md",
+                "file": "Daily Notes/1403-09-15.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Customer Relationship Management"
+              "title": "1403-09-15"
             }
           }
         ],
@@ -104,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MBA/Forecast Business.md",
+                "file": "Daily Notes/1403-09-15.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Forecast Business"
+              "title": "Backlinks for 1403-09-15"
             }
           },
           {
@@ -176,7 +176,8 @@
               "title": "Persian Calendar"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -195,22 +196,28 @@
       "persian-calendar:روزنوشت امروز": false
     }
   },
-  "active": "c4f69169085f7ca4",
+  "active": "f22bb5eb019122c5",
   "lastOpenFiles": [
-    "MBA/Forecast Business.md",
+    "ITs/Linux/README.md",
+    "Daily Notes/1403-09-15.md",
+    "Daily Notes/Untitled.md",
+    "ITs/Linux/NGINX.md",
+    "ITs/MinIO/README.md",
+    "ITs/Git Documentation.md",
+    "ITs/Ansible/README.md",
+    "Daily Tasks/1403-07-19.md",
     "Books/Customer Relationship Management.md",
+    "MBA/Forecast Business.md",
     "Books/Principles Of Marketing.md",
     "MBA",
     "Books/HR-70s.md",
     "Books/Hard Thing About Hard Thing.md",
-    "Daily Tasks/1403-07-19.md",
     "2024-12-03.md",
     "Excalidraw/Drawing 2024-10-11 10.06.16.excalidraw.md",
     "Excalidraw",
     "Daily Tasks",
     "Daily Notes/1403-07-18.md",
     "README.md",
-    "ITs/Git Documentation.md",
     "Books",
     "Daily Notes",
     "ITs/Kafka/README.md",
@@ -225,19 +232,13 @@
     "ITs/Kafka",
     "ITs/Kubernetes/README.md.md",
     "ITs/Prometheus/README.md",
-    "ITs/Ansible/README.md",
     "ITs/Prometheus",
-    "ITs/Linux/README.md",
     "ITs/Database/SQL & Postgres/README.md",
     "ITs/Database/MongoDB.md",
     "README.md.md",
-    "ITs/Linux/NGINX.md",
     "ITs/Linux/assets/LVM_component.webp",
     "ITs/Linux/assets",
-    "2024-03-04.md",
     "Untitled.canvas",
-    "Untitled.md",
-    "ITs/MinIO/README.md",
     "ITs/Computer Science/assets/envelope.jpg",
     "Pasted image 20230519165552.png",
     "ITs/Database/SQL & Postgres/assets/dbms.png"
